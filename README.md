@@ -1,7 +1,7 @@
 # TrafficLights
 The TrafficLights project is a Windows Forms application that simulates a traffic light control system.
 
-# Key Concept:
+# Key Concepts
 - Event-driven programming: User control raises events, form reacts.
 - Custom user control for encapsulated logic.
 
